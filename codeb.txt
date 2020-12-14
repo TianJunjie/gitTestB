@@ -6,7 +6,12 @@ code from B to bf1
 code from A bf1
 
 
+
 code from B to bf1 xxxxxx
 
 code from B ro bf1 ssssssss
+
+
+
+code from A ro bf1 ffffffff
 
