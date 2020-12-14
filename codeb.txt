@@ -4,3 +4,5 @@ code b 2
 code pf1 xxx
 code from B to bf1
 code from A bf1
+
+code from B ro bf1 ssssssss
